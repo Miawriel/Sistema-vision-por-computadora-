@@ -94,18 +94,33 @@ Se evaluó el modelo utilizando videos completos **no vistos durante el entrenam
 
 ---
 
-## 📂 Organización del repositorio
+## 📌 Nota sobre videos
 
-```plaintext
-notebook/
-    michi_notebook.ipynb
+Debido a restricciones de tamaño, los videos completos utilizados en el proyecto no se incluyen en este repositorio.
 
-model/
-    best.pt
+Se proporciona un ejemplo representativo para demostrar el funcionamiento del modelo.
 
-outputs/
-    videos/
-    images/
+Para ejecutar el modelo con nuevos datos, se pueden utilizar videos propios siguiendo el mismo formato.
 
-data/
-    (ejemplos, dataset completo no incluido)
+## 📁 Requisitos
+
+Para ejecutar el proyecto es necesario contar con:
+
+- Python 3.x
+
+### Librerías principales
+
+- `ultralytics`
+- `opencv-python`
+- `numpy`
+- `matplotlib`
+
+### Instalación rápida
+
+```bash
+pip install ultralytics opencv-python numpy matplotlib
+
+
+
+
+
