@@ -94,13 +94,19 @@ Se evaluó el modelo utilizando videos completos **no vistos durante el entrenam
 
 ---
 
-## 📌 Nota sobre videos
+## 🎥 Videos completos
 
-Debido a restricciones de tamaño, los videos completos utilizados en el proyecto no se incluyen en este repositorio.
+Debido a restricciones de tamaño, los videos completos utilizados en este proyecto no se incluyen en este repositorio.
 
-Se proporciona un ejemplo representativo para demostrar el funcionamiento del modelo.
+Se encuentran disponibles en el siguiente enlace:
 
-Para ejecutar el modelo con nuevos datos, se pueden utilizar videos propios siguiendo el mismo formato.
+👉 [Ver videos en Google Drive](https://drive.google.com/drive/folders/1abcPD-0KA1cWYrjSX-yHY-EBJSumqhTG?usp=drive_link)
+
+Estos videos incluyen:
+- Videos originales utilizados para generar el dataset
+- Videos de validación externa y test
+- Resultados del modelo sobre secuencias completas
+
 
 ## 📁 Requisitos
 
